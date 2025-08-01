@@ -3,6 +3,11 @@
 ## Visão Geral
 Sistema de chat em linha de comando com comunicação TCP entre múltiplos clientes e servidor participativo, desenvolvido como evolução do código da Prática 1.
 
+### Execução
+1. Inicie o servidor:
+   ```bash
+   start src/main/java/labsockets/start.bat
+
 ## Arquitetura do Sistema
 
 ### Componentes Principais
